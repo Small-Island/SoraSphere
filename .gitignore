@@ -1,0 +1,7 @@
+*.meta
+Assets/SoraUnitySDK/Plugins/SoraUnitySDK/android/
+Assets/SoraUnitySDK/Plugins/SoraUnitySDK/ios/
+webrtc_logs_*
+Library/
+Logs/
+obj/
