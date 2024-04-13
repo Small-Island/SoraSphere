@@ -4,3 +4,4 @@ Assets/SoraUnitySDK/Plugins/SoraUnitySDK/ios/
 webrtc_logs_*
 .vsconfig
 .vs/
+Temp/
